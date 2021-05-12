@@ -3,6 +3,7 @@
 *.d.ts
 node_modules
 lib/backend/node_modules
+!lib/backend/index.js
 
 # CDK asset staging directory
 .cdk.staging
